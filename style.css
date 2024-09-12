@@ -1,0 +1,45 @@
+body{
+    background-color:darkslategray;
+
+}
+.menu{
+     width:20%;
+     height:900px;
+     border:2px solid black;
+
+     
+}
+   .searchbar{
+       position: relative;
+       top;0px;
+       bottom:900px;
+       left:800px;
+       right:px;
+   }
+       
+.mic{
+    
+    position: relative;
+    top;0px;
+    bottom:925px;
+    left:850px;
+    right:0px;
+}
+.video{
+    position: relative;
+    top;0px;
+    bottom:950px;
+    left:1000px;
+    right:0px;
+    
+}
+.more{
+    position: relative;
+    top;0px;
+    bottom:980px;
+    left:109px;
+    right:0px;
+}
+
+    
+
